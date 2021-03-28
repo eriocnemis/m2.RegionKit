@@ -2,6 +2,12 @@
 
 The kit of extensions allows you to manage geographic regions. For each country, you can add the any region, whose name is based on a specific locale. The kit also provides other additional features.
 
+## Children Modules
+
+[Region Api](https://github.com/eriocnemis/m2.RegionApi) - The module serves as application program interface (API) responsible for functionality of regions manage as well as bulk operations.
+[Region Admin Ui](https://github.com/eriocnemis/m2.RegionAdminUi) - The module provides UI for Admin Panel of regions manage as well as bulk operations.
+[Region](https://github.com/eriocnemis/m2.Region) - The module is the core of a kit of extensions for regions manage. The module provides basic functionality of regions manage as well as bulk operations.
+
 ## Compatibility
 
 Version | 2.0.* | 2.1.* | 2.2.* | 2.3.* | 2.4.*
