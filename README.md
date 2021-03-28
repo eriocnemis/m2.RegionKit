@@ -60,10 +60,6 @@ You can uninstall a module only if you’re certain you won’t use it. Instead 
     ```bash
     composer remove eriocnemis/module-region-kit
     ```
-#### Manual Uninstall
-
-1. Remove the folder {Magento root}/app/code/Eriocnemis/Region
-
 #### Completion of uninstall
 
 1. Go to Magento2 root folder
