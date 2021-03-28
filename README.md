@@ -1,6 +1,6 @@
 # Magento2 Region
 
-The extension allows you to manage geographic regions.  For each country, you can add the any region, whose name is based on a specific locale.
+The kit of extensions allows you to manage geographic regions. For each country, you can add the any region, whose name is based on a specific locale. The kit also provides other additional features.
 
 ## Compatibility
 
