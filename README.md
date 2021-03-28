@@ -43,24 +43,6 @@ Extension version | - | - | - | [2.3.1](https://github.com/eriocnemis/m2.Region/
     php bin/magento setup:di:compile
     php bin/magento setup:static-content:deploy (optional)
     ```
-## Usage
-
-### Menu
-
-*Stores > Geography > Regions*.
-
-### Region Edit Page: general tab
-
-<img alt="Magento2 Region" src="http://eriocnemis.com/image/m2/directory/region.general.png" style="width:100%"/>
-
-### Region Edit Page: labels tab
-
-<img alt="Magento2 Region" src="http://eriocnemis.com/image/m2/directory/region.label.png" style="width:100%"/>
-
-### Region Grid Page
-
-<img alt="Magento2 Region" src="http://eriocnemis.com/image/m2/directory/regions.png" style="width:100%"/>
-
 ## Related Modules
 
 [Region Import Export](https://github.com/eriocnemis/m2.RegionImportExport) - The extension allows admin to quickly import regions via a CSV file by one click. This simplifies the data update process of regions.
