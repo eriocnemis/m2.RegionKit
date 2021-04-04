@@ -10,6 +10,12 @@ The kit of extensions allows you to manage geographic regions. For each country,
 
 [Region](https://github.com/eriocnemis/m2.Region) - The module is the core of a kit of extensions for regions manage. The module provides basic functionality of regions manage.
 
+[Region Shipping Rule Api](https://github.com/eriocnemis/m2.RegionShippingRuleApi) - The module serves as application program interface (API) responsible for functionality of shipping rules manage as well as bulk operations.
+
+[Region Shipping Rule Admin Ui](https://github.com/eriocnemis/m2.RegionShippingRuleAdminUi) - The module provides UI for Admin Panel of shipping rules manage as well as bulk operations.
+
+[Region Shipping Rule](https://github.com/eriocnemis/m2.RegionShippingRule) - The module ...
+
 ## Compatibility
 
 Version | 2.0.* | 2.1.* | 2.2.* | 2.3.* | 2.4.*
@@ -17,7 +23,7 @@ Version | 2.0.* | 2.1.* | 2.2.* | 2.3.* | 2.4.*
 Magento Community | - | - | - | :heavy_check_mark: | :heavy_check_mark:
 Magento Enterprise | - | - | - | :heavy_check_mark: | :heavy_check_mark:
 Magento Cloud | - | - | - | :heavy_check_mark: | :heavy_check_mark:
-Extension version | - | - | - | [2.3.1](https://github.com/eriocnemis/m2.Region/archive/2.3.1.zip) | [2.4.1](https://github.com/eriocnemis/m2.Region/archive/2.4.1.zip)
+Extension version | - | - | - | 2.3.1 | 2.4.1
 
 ## Install
 
