@@ -14,7 +14,7 @@ The kit of extensions allows you to manage geographic regions. For each country,
 
 [Region Shipping Rule Admin Ui](https://github.com/eriocnemis/m2.RegionShippingRuleAdminUi) - The module provides UI for Admin Panel of shipping rules manage as well as bulk operations.
 
-[Region Shipping Rule](https://github.com/eriocnemis/m2.RegionShippingRule) - The module ...
+[Region Shipping Rule](https://github.com/eriocnemis/m2.RegionShippingRule) - The module allows you to create flexible rules for managing shipping methods depending on the region.
 
 ## Compatibility
 
