@@ -13,7 +13,10 @@
     "require": {
         "eriocnemis/module-region-api": "2.3.*",
         "eriocnemis/module-region": "2.3.*",
-        "eriocnemis/module-region-admin-ui": "2.3.*"
+        "eriocnemis/module-region-admin-ui": "2.3.*",
+        "eriocnemis/module-region-shipping-rule-api": "2.3.*",
+        "eriocnemis/module-region-shipping-rule": "2.3.*",
+        "eriocnemis/module-region-shipping-rule-admin-ui": "2.3.*"
     },
     "autoload": {
         "files": [
