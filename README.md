@@ -54,7 +54,7 @@ Extension version | - | - | - | 2.3.1 | 2.4.1
     ```
 ## Related Modules
 
-[Region Import Export](https://github.com/eriocnemis/m2.RegionImportExport) - The extension allows admin to quickly import regions via a CSV file by one click. This simplifies the data update process of regions.
+[Region Import Export](https://github.com/eriocnemis/m2.DirectoryImportExport) - The extension allows admin to quickly import regions via a CSV file by one click. This simplifies the data update process of regions.
 
 ## Uninstall
 
