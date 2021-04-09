@@ -16,6 +16,8 @@ The kit of extensions allows you to manage geographic regions. For each country,
 
 [Region Shipping Rule](https://github.com/eriocnemis/m2.RegionShippingRule) - The module allows you to create flexible rules for managing shipping methods depending on the region.
 
+[Region Import](https://github.com/eriocnemis/m2.RegionImport) - The module allows admin to quickly import regions via a CSV file by one click. This simplifies the data update process of regions.
+
 ## Compatibility
 
 Version | 2.0.* | 2.1.* | 2.2.* | 2.3.* | 2.4.*
@@ -52,9 +54,6 @@ Extension version | - | - | - | 2.3.1 | 2.4.1
     php bin/magento setup:di:compile
     php bin/magento setup:static-content:deploy (optional)
     ```
-## Related Modules
-
-[Region Import Export](https://github.com/eriocnemis/m2.DirectoryImportExport) - The extension allows admin to quickly import regions via a CSV file by one click. This simplifies the data update process of regions.
 
 ## Uninstall
 
