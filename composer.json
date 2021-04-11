@@ -2,7 +2,7 @@
     "name": "eriocnemis/module-region-kit",
     "description": "The extension allows you to manage geographic regions. For each country, you can add the any region, whose name is based on a specific locale.",
     "type": "magento2-module",
-    "version": "2.3.2",
+    "version": "2.4.1",
     "authors": [{
         "name": "Eriocnemis Team",
         "email": "dev.eriocnemis@gmail.com"
@@ -11,13 +11,13 @@
         "OSL-3.0"
     ],
     "require": {
-        "eriocnemis/module-region-api": "2.3.*",
-        "eriocnemis/module-region": "2.3.*",
-        "eriocnemis/module-region-admin-ui": "2.3.*",
-        "eriocnemis/module-region-shipping-rule-api": "2.3.*",
-        "eriocnemis/module-region-shipping-rule": "2.3.*",
-        "eriocnemis/module-region-shipping-rule-admin-ui": "2.3.*",
-        "eriocnemis/module-region-import": "2.3.*"
+        "eriocnemis/module-region-api": "2.4.*",
+        "eriocnemis/module-region": "2.4.*",
+        "eriocnemis/module-region-admin-ui": "2.4.*",
+        "eriocnemis/module-region-shipping-rule-api": "2.4.*",
+        "eriocnemis/module-region-shipping-rule": "2.4.*",
+        "eriocnemis/module-region-shipping-rule-admin-ui": "2.4.*",
+        "eriocnemis/module-region-import": "2.4.*"
     },
     "autoload": {
         "files": [
