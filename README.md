@@ -35,10 +35,16 @@ Extension version | - | - | - | 2.3.1 | 2.4.1
 
 2. Enter following commands to install module:
 
-     For Magento CE 2.3.x
+     For Magento CE(EE) 2.3.x
 
     ```bash
     composer require eriocnemis/module-region-kit:2.3.*
+    ```
+
+     For Magento CE(EE) 2.4.x
+
+    ```bash
+    composer require eriocnemis/module-region-kit:2.4.*
     ```
 
    Wait while dependencies are updated.
