@@ -17,6 +17,6 @@ repos:
     -   id: magento-xml
     -   id: magento-phpcs
         args: ["--autofix"]
-#    -   id: magento-phpmd
-#    -   id: magento-phpcpd
+    -   id: magento-phpmd
+    -   id: magento-phpcpd
     -   id: magento-phpstan
