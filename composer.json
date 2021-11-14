@@ -2,29 +2,32 @@
     "name": "eriocnemis/module-region-kit",
     "description": "The extension allows you to manage geographic regions. For each country, you can add the any region, whose name is based on a specific locale.",
     "type": "magento2-module",
-    "version": "2.4.1",
-    "authors": [{
-        "name": "Eriocnemis Team",
-        "email": "dev.eriocnemis@gmail.com"
-    }],
+    "version": "2.4.2",
+    "authors": [
+        {
+            "name": "Eriocnemis Team",
+            "email": "dev.eriocnemis@gmail.com"
+        }
+    ],
     "license": [
         "OSL-3.0"
     ],
     "require": {
-        "eriocnemis/module-region-api": "2.4.*",
-        "eriocnemis/module-region": "2.4.*",
-        "eriocnemis/module-region-admin-ui": "2.4.*",
-        "eriocnemis/module-region-shipping-rule-api": "2.4.*",
-        "eriocnemis/module-region-shipping-rule": "2.4.*",
-        "eriocnemis/module-region-shipping-rule-admin-ui": "2.4.*",
-        "eriocnemis/module-region-import": "2.4.*"
+        "php": "~7.3.0||~7.4.0",
+        "eriocnemis/module-region-api": "2.4.2",
+        "eriocnemis/module-region": "2.4.2",
+        "eriocnemis/module-region-admin-ui": "2.4.2",
+        "eriocnemis/module-region-shipping-rule-api": "2.4.2",
+        "eriocnemis/module-region-shipping-rule": "2.4.2",
+        "eriocnemis/module-region-shipping-rule-admin-ui": "2.4.2",
+        "eriocnemis/module-region-import": "2.4.2"
     },
     "autoload": {
         "files": [
-            "registration.php"
+            "src/registration.php"
         ],
         "psr-4": {
-            "Eriocnemis\\RegionKit\\": ""
+            "Eriocnemis\\RegionKit\\": "src"
         }
     }
 }
